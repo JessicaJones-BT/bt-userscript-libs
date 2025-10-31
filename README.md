@@ -6,5 +6,6 @@ This repo is meant to provide a publicly-accessible URL by which javascript libr
 
 ## Current list of scripts
 
+* **FileSaver** (2.0.4; downloaded from https://github.com/eligrey/FileSaver.js/raw/refs/tags/v2.0.4/dist/FileSaver.min.js)
 * **jQuery** (3.7.1; downloaded from https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js)
 * **JSzip** (3.10.1; downloaded from https://github.com/Stuk/jszip/raw/refs/tags/v3.10.1/dist/jszip.min.js)
